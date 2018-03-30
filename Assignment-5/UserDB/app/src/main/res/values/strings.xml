@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserDB</string>
+
+    <string-array name="tvShows">
+        <item></item>>
+        <item>Game of Thrones</item>
+        <item>Breaking Bad</item>
+        <item>Arrow</item>
+        <item>Better Call Saul</item>
+        <item>Stranger Things</item>
+        <item>The Walking Dead</item>
+    </string-array>
+</resources>
